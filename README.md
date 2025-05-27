@@ -1,2 +1,2 @@
 # chrono-map
-Mapa interatico Chrono Odyssey
+Mapa interativo Chrono Odyssey
